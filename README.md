@@ -1,6 +1,7 @@
 # Quantum-Parallel-MCMC-2
 Implementation code for QPMCMC2
 Scripts guides:
+
 File: QPMCMC2
 1)	QPMCMC2_clean.ipynb: 	
 Contain classical simulation of QPMCMC2 and Metropolis-Hastings algorithm for the same problem. 
